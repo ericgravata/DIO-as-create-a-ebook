@@ -1,6 +1,5 @@
 ## Autor  
 
-<img src="(https://avatars.githubusercontent.com/u/164427726?v=4&size=64)" alt="Foto de Eric Gravatá" width="100" />
 **Eric Gravatá**  
 
 ---  
