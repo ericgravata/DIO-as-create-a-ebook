@@ -21,8 +21,7 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Gere um título envolvente e épico sobre o tema Java. Adicione termos que estejam dentro da temática de um ambiente que facilita, que demonstra clareza, serenidade e aproximação. O Título precisa ser curto e objetivo. A capa terá um panda como símbolo. Liste 10 variações de títulos.
-É para um e-book, dê uma melhorada.                                                      |
+|  título  | Gere um título envolvente e épico sobre o tema Java. Adicione termos que estejam dentro da temática de um ambiente que facilita, que demonstra clareza, serenidade e aproximação. O Título precisa ser curto e objetivo. A capa terá um panda como símbolo. Liste 10 variações de títulos. É para um e-book, dê uma melhorada. |
 | conteúdo | Faça um texto para um e-book, com foco em Java, listando as variáveis, os principais tipos de dados aceitos, e classes, tudo com exemplos de código. (REGRAS) > Explique sempre de uma maneira simples e didáticas. > Deixe o texto enxuto. > Sempre traga exemplos de códigos em contextos reais. > Sempre deixe um título sugestivo por tópico. |
 
 
