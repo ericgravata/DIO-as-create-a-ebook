@@ -12,7 +12,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/)
 - [Copilot](https://copilot.microsoft.com/chats/1BaLPHdYiRUqhJaNnRuyp)
-- [PowerPoint](https://docs.google.com/presentation/)
+- [Google Apresentação](https://docs.google.com/presentation/)
 
 ## 🧠 Prompts
 
